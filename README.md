@@ -1,3 +1,1 @@
-# TrainigCourses
-Web-API 
-WinForms application for testing Web-API
+Web-API with WinForms application for testing
